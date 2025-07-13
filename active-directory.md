@@ -74,7 +74,4 @@ echo %userdomain%
 gpresult /r
 ping dc1.homelab.local
 
-## 9. Next Steps
-- Add additional users, computers, and groups
-- Apply logging & auditing GPOs
-- Start red team testing with Kali Linux
+
