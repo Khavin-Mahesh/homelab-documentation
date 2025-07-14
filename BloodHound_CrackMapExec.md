@@ -98,3 +98,4 @@ Transferred `loot.zip` to Kali via shared folders or SCP.
 - Explore domain relationships and potential privilege escalation paths
 - Add detection and alerting on enumeration behavior
 - Begin testing privilege escalation techniques
+ 
